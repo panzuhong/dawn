@@ -52,7 +52,7 @@ git remote add upstream https://github.com/Shopify/dawn.git
 4. Pull in the latest Dawn changes into your repository:
 ```sh
 git fetch upstream
-git pull upstream main
+git pull upstream main 
 ```
 
 ## Developer tools
